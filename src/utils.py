@@ -54,4 +54,4 @@ def convertir_temperature(temperature, unite_source, unite_cible):
     elif unite_cible == 'F':
       return (temperature - 273.15) * 9/5 + 32
 
-  return None # Ne devrait jamais arriver si la logique est correcte
+  return None # Ne devrait jamais arriver si la logique est correcte changement
